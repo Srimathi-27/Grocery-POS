@@ -9,7 +9,7 @@ In order to run the application use Windows PowerShell.
 * type: python main.py(to run main)
 
 
-##Features
+## Features
 
 1. Add products to the cart
 3. Calculate cost based on purchase quantity
@@ -18,12 +18,13 @@ In order to run the application use Windows PowerShell.
 6. The final bill has shop name with address in the header and customer details with points earned in the footer
 
 
-###Pre-Requisites
+### Pre-Requisites
 
 Python 3.7
 
 
-####Usage
+#### Usage
+
 Usage is completely on the cashier side.
 
 * Add products to the cart by selecting them from the list of available items and clicking the item.
@@ -51,7 +52,7 @@ Usage is completely on the cashier side.
 * To exit, Click the Exit button.
 
 
-#####Password
+##### Password
 
 For Employee and Admin
 
