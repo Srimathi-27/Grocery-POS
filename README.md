@@ -18,12 +18,12 @@ In order to run the application use Windows PowerShell.
 6. The final bill has shop name with address in the header and customer details with points earned in the footer
 
 
-### Pre-Requisites
+## Pre-Requisites
 
 Python 3.7
 
 
-#### Usage
+## Usage
 
 Usage is completely on the cashier side.
 
@@ -52,7 +52,7 @@ Usage is completely on the cashier side.
 * To exit, Click the Exit button.
 
 
-##### Password
+## Password
 
 For Employee and Admin
 
